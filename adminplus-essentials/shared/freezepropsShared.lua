@@ -1,0 +1,45 @@
+freezeConfig = {}
+
+-- Freeze Props
+-- (Useful to make specific props not be able to be tipped over (causing dsync & lag / can't drive into it) -- 
+freezeConfig.Enable = true
+
+freezeConfig.Props = {
+    "prop_traffic_01a",
+    "prop_traffic_01b",
+    "prop_traffic_01d",
+    "prop_traffic_03a",
+    "prop_traffic_03b",
+    "prop_traffic_lightset_01",
+    "prop_ind_light_01a",
+    "prop_ind_light_01b",
+    "prop_ind_light_01c",
+    "prop_ind_light_02a",
+    "prop_ind_light_02b",
+    "prop_ind_light_01c",
+    "prop_ind_light_02a",
+    "prop_ind_light_02b",
+    "prop_ind_light_02c",
+    "prop_ind_light_03a",
+    "prop_ind_light_03b",
+    "prop_ind_light_03c",
+    "prop_ind_light_04",
+    "prop_streetlight_01",
+    "prop_streetlight_02",
+    "prop_streetlight_03",
+    "prop_streetlight_03b",
+    "prop_streetlight_03c",
+    "prop_streetlight_03d",
+    "prop_streetlight_03e",
+    "prop_streetlight_09",
+    "prop_streetlight_14a",
+    "prop_streetlight_15a",
+    "prop_streetlight_04",
+    "prop_gas_pump_old2",
+    "prop_gas_pump_1a",
+    "prop_vintage_pump",
+    "prop_gas_pump_old3",
+    "prop_gas_pump_1c",
+    "prop_gas_pump_1b",
+    "prop_gas_pump_1d",
+}
